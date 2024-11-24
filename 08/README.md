@@ -93,10 +93,10 @@ END START
 ### **Outputs**
 
 #### **(a) Average Calculation Result:**  
-![Average Calculation Output](08/avg.png)
+![Average Calculation Output](./avg.png)
 
 #### **(b) Factorial Calculation Result:**  
-![Factorial Calculation Output](08/factorial.png)
+![Factorial Calculation Output](./factorial.png)
 
 ---
 
