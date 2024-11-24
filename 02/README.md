@@ -130,16 +130,16 @@ END START
 ### **Outputs**
 
 #### **8-bit Addition Result:**  
-![8-bit Addition Output](02/output_8bit_addition.png)
+![8-bit Addition Output](./output_8bit_addition.png)
 
 #### **8-bit Subtraction Result:**  
-![8-bit Subtraction Output](02/output_8bit_subtraction.png)
+![8-bit Subtraction Output](./output_8bit_subtraction.png)
 
 #### **8-bit Multiplication Result:**  
-![8-bit Multiplication Output](02/output_8bit_multiplication.png)
+![8-bit Multiplication Output](./output_8bit_multiplication.png)
 
 #### **8-bit Division Result:**  
-![8-bit Division Output](02/output_8bit_division.png)
+![8-bit Division Output](./output_8bit_division.png)
 
 ---
 
