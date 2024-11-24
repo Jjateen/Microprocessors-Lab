@@ -85,10 +85,10 @@ END START
 ### **Outputs**
 
 #### **8-bit Addition Result:**  
-![8-bit Addition Output](01/output_8bit_addition.png)
+![8-bit Addition Output](./output_8bit_addition.png)
 
 #### **16-bit Addition Result:**  
-![16-bit Addition Output](01/output_16bit_addition.png)
+![16-bit Addition Output](./output_16bit_addition.png)
 
 ---
 
