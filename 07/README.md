@@ -85,7 +85,7 @@ END start
 ### **Outputs**
 
 #### **Segregated Odd and Even Numbers:**  
-![Odd and Even Numbers Segregated](./sort_to_even_odd.png)
+![Odd and Even Numbers Segregated](./sort_into_even_odd_arrays.png)
 
 ---
 
